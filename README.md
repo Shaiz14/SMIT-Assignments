@@ -2,4 +2,4 @@
 
 #Netlify Link
 
-https://smit-assignments-shaiz.netlify.app/
+https://smit-mtalha-wma133635-assignments.netlify.app/
